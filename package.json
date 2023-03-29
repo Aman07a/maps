@@ -1,0 +1,16 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "Typescript: The Complete Developer's Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "faker": "^6.6.6"
+  }
+}
